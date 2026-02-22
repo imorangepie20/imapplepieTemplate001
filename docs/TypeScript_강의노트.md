@@ -1359,3 +1359,14 @@ import Button from '@/components/common/Button'
 ---
 
 > 📖 이 강의 노트는 `imapplepie20 Admin Template` 프로젝트의 실제 코드를 바탕으로 TypeScript의 기초부터 중급까지 다룹니다. 코드 예시의 `// 실제 프로젝트 코드!` 표시가 있는 부분은 `src/` 폴더에서 직접 확인할 수 있습니다.
+
+---
+
+## 다음 단계 (학습 로드맵)
+
+TypeScript를 마스터했다면 이제 React와 함께 사용하는 방법을 배우세요:
+
+1. ✅ **[`React_강의노트.md`](React_강의노트.md)** — React 기초 (컴포넌트, JSX, Props, State)
+2. ✅ **[`React_심화_강의노트.md`](React_심화_강의노트.md)** — React 심화 (Hooks, 상태 관리)
+3. ✅ **[`state-management/state-management-guide.md`](state-management/state-management-guide.md)** — Zustand, Redux Toolkit
+4. ⏭️ **[`React_실전_전문가코스_Complete.md`](React_실전_전문가코스_Complete.md)** — 실전 프로젝트

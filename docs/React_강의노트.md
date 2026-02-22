@@ -743,9 +743,9 @@ const Dashboard = () => {
 
 ## 다음 단계 (심화 학습)
 
-1. **useEffect**: 사이드 이펙트 처리 (API 호출, 구독 등)
-2. **useContext**: 전역 상태 관리
-3. **Custom Hooks**: 로직 재사용
-4. **useReducer**: 복잡한 상태 관리
-5. **React Query / SWR**: 서버 상태 관리
-6. **상태 관리 라이브러리**: Zustand, Redux Toolkit
+이 강의 노트를 마스터했다면 다음 단계로 넘어가세요:
+
+1. ✅ **[`React_심화_강의노트.md`](React_심화_강의노트.md)** — useEffect, useContext, Custom Hooks, useReducer, React Query/SWR
+2. ✅ **[`TypeScript_강의노트.md`](TypeScript_강의노트.md)** — TypeScript 완전 정복
+3. ✅ **[`state-management/state-management-guide.md`](state-management/state-management-guide.md)** — Zustand, Redux Toolkit 심화
+4. ⏭️ **[`React_실전_전문가코스_Complete.md`](React_실전_전문가코스_Complete.md)** — 실전 프로젝트
